@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Side Navigation</string>
+    <string name="md_sharif_mia">Md Sharif Mia</string>
+    <string name="bangladesh">Bangladesh</string>
+    <string name="explore">Explore</string>
+    <string name="addons">AddOns</string>
+    <string name="messages">Messages</string>
+    <string name="settings">Settings</string>
+    <string name="sing_out">Sing Out</string>
+    <string name="solving_your_problem">Solving your problem</string>
+    <string name="bitcoin">BitCoin</string>
+    <string name="clock">Clock</string>
+    <string name="bug">Bug</string>
+    <string name="message">Message</string>
+</resources>
